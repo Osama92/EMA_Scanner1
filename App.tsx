@@ -39,8 +39,8 @@ import {CameraView, Camera} from  'expo-camera'
     //     setLabel(label + '\n' +  json )
     //   }
       
-    console.log(label)
-    Alert.alert(label)
+    console.log(data)
+    // Alert.alert(label)
   };
 
 
