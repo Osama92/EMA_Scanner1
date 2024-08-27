@@ -9,7 +9,7 @@ import {CameraView, Camera} from  'expo-camera'
  function App() {
   const [hasPermission, setHasPermission] = useState(null);
   const [scanned, setScanned] = useState(false);
-  const [label, setLabel] = useState('')
+  //const [label, setLabel] = useState('')
 
  
 
